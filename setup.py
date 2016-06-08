@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'hello_pip',
-  packages = ['hello_pip'], # this must be the same as the name above
+  name = 'hello_pip_goran',
+  packages = ['hello_pip_goran'], # this must be the same as the name above
   version = '0.1',
   description = 'A random test lib',
   author = 'Goran Iliev',
