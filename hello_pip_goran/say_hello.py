@@ -2,4 +2,6 @@
 
 __author__ = 'goran'
 
-print('Hello Pip!')
+
+def say_hello():
+    print('Hello Pip!')
